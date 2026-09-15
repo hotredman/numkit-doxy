@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['dampresult_0',['DampResult',['../structnk_1_1control_1_1_damp_result.html',1,'nk::control']]],
+  ['databuffer_1',['DataBuffer',['../classnk_1_1_data_buffer.html',1,'nk']]],
+  ['datasetinfo_2',['DatasetInfo',['../structnk_1_1_dataset_info.html',1,'nk']]],
+  ['ddencmpresult_3',['DdencmpResult',['../structnk_1_1wavelet_1_1_ddencmp_result.html',1,'nk::wavelet']]],
+  ['debugcontext_4',['DebugContext',['../structnk_1_1_debug_context.html',1,'nk']]],
+  ['debugcontroller_5',['DebugController',['../classnk_1_1_debug_controller.html',1,'nk']]],
+  ['debugfacade_6',['DebugFacade',['../classnk_1_1_debug_facade.html',1,'nk']]],
+  ['debugobserver_7',['DebugObserver',['../classnk_1_1_debug_observer.html',1,'nk']]],
+  ['debugsession_8',['DebugSession',['../classnk_1_1_debug_session.html',1,'nk']]],
+  ['debugstopexception_9',['DebugStopException',['../classnk_1_1_debug_stop_exception.html',1,'nk']]],
+  ['debugworkspace_10',['DebugWorkspace',['../classnk_1_1_debug_workspace.html',1,'nk']]],
+  ['decimatedseries_11',['DecimatedSeries',['../structnk_1_1_decimated_series.html',1,'nk']]],
+  ['decoderesult_12',['DecodeResult',['../structnk_1_1comm_1_1_decode_result.html',1,'nk::comm']]],
+  ['deconvregresult_13',['DeconvregResult',['../structnk_1_1image_1_1_deconvreg_result.html',1,'nk::image']]],
+  ['dependencygraph_14',['DependencyGraph',['../classnk_1_1_dependency_graph.html',1,'nk']]],
+  ['dims_15',['Dims',['../structnk_1_1_dims.html',1,'nk']]],
+  ['dimsarg_16',['DimsArg',['../structnk_1_1_dims_arg.html',1,'nk::DimsArg'],['../structnk_1_1ops_1_1_dims_arg.html',1,'nk::ops::DimsArg']]],
+  ['direntry_17',['DirEntry',['../structnk_1_1_dir_entry.html',1,'nk']]],
+  ['dpcmoptresult_18',['DpcmOptResult',['../structnk_1_1comm_1_1_dpcm_opt_result.html',1,'nk::comm']]],
+  ['dwt2result_19',['Dwt2Result',['../structnk_1_1wavelet_1_1_dwt2_result.html',1,'nk::wavelet']]]
+];

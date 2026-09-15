@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['k_0',['K',['../structnk_1_1builtin_1_1_ellip_k_e.html#a6ccb3ea23f3f60211530d811def00b01',1,'nk::builtin::EllipKE']]],
+  ['k_1',['k',['../structnk_1_1builtin_1_1_residue_result.html#aa8e8ac294d4a044ac89d5bb494caf360',1,'nk::builtin::ResidueResult::k'],['../structnk_1_1comm_1_1_hammgen_result.html#a23704facb10822827a9ac7c6f36e8771',1,'nk::comm::HammgenResult::k'],['../structnk_1_1comm_1_1_cyclgen_result.html#ac92e7a03e0720668a5b9345f1607524c',1,'nk::comm::CyclgenResult::k'],['../structnk_1_1control_1_1_tf2_zp_result.html#a9f990b63ab497e673954d826e5ef9a24',1,'nk::control::Tf2ZpResult::k']]],
+  ['kaiser_2',['kaiser',['../group__group__signal.html#ga124c2b0572c5bf581ea4cf63c5414786',1,'nk::signal']]],
+  ['kaiserord_3',['kaiserord',['../group__group__signal.html#ga43d06df169d97758f65438fde87a0503',1,'nk::signal']]],
+  ['keepapp_4',['keepapp',['../structnk_1_1wavelet_1_1_ddencmp_result.html#a7fa22f208e6cbb743508626d8f951c89',1,'nk::wavelet::DdencmpResult']]],
+  ['keys_5',['keys',['../group__group__datatypes.html#gabe5897be8d91de20f40e3f6e76e02b5e',1,'nk::runtime::containers']]],
+  ['keywords_6',['keywords',['../group__group__lang.html#ga4ccb17abe348c80990786cb53b509755',1,'nk::builtin']]],
+  ['kmeans_7',['kmeans',['../group__group__stats.html#gaa7fa1fc6d00874f53e79560a987a045e',1,'nk::stats']]],
+  ['kmeans_2ehpp_8',['kmeans.hpp',['../kmeans_8hpp.html',1,'']]],
+  ['kmedoids_9',['kmedoids',['../group__group__stats.html#gab2239faaf0a6236ae813ea61b9ef6c4c',1,'nk::stats']]],
+  ['kmedoids_2ehpp_10',['kmedoids.hpp',['../kmedoids_8hpp.html',1,'']]],
+  ['knnsearch_11',['knnsearch',['../group__group__stats.html#ga0f27b22cce433bbacc5356b6cf3a8b12',1,'nk::stats']]],
+  ['knnsearch_2ehpp_12',['knnsearch.hpp',['../knnsearch_8hpp.html',1,'']]],
+  ['knt2brk_13',['knt2brk',['../group__group__stats.html#ga1b2da03983aa064eace0e9c0402f95f4',1,'nk::stats']]],
+  ['kron_14',['kron',['../group__group__matfun.html#ga8b709d6ff91234d8b55d96ecb910389d',1,'nk::linalg']]],
+  ['kruskalwallis_15',['kruskalwallis',['../group__group__stats.html#ga464f1b57bb4d2a1d0ec35a55a0390fb8',1,'nk::stats']]],
+  ['ksdensity_16',['ksdensity',['../group__group__stats.html#gadd048f9cd0fc4b23c1a1072af7c6610d',1,'nk::stats']]],
+  ['kseriespreviewthreshold_17',['kSeriesPreviewThreshold',['../classnk_1_1_figure_manager.html#a9084e67f71f9e242275d5d35b2e5f53e',1,'nk::FigureManager']]],
+  ['kstest_18',['kstest',['../group__group__stats.html#ga1c7b512aaa90d66fd6ea764e7574952a',1,'nk::stats']]],
+  ['kstest2_19',['kstest2',['../group__group__stats.html#ga45e2b2a8c252ef10f5826590ddee3268',1,'nk::stats']]],
+  ['kurtosis_20',['kurtosis',['../group__group__stats.html#gac6d2245b5ffff531f2517878618b304b',1,'nk::stats']]]
+];

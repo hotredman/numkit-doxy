@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['obsv_5fac_0',['obsv_AC',['../group__group__control.html#gab6d444f08ffaf789c83ddafc22f25148',1,'nk::control']]],
+  ['obsv_5fsys_1',['obsv_sys',['../group__group__control.html#gac1ebae05a5a40129ee93ac69c5854aff',1,'nk::control']]],
+  ['obw_2',['obw',['../group__group__signal.html#ga7213d75d8881adee0e9a94ef274b5a71',1,'nk::signal']]],
+  ['ode23_3',['ode23',['../group__group__ode.html#ga38803fd77912c134108131971035ef07',1,'nk::ode']]],
+  ['ode45_4',['ode45',['../group__group__ode.html#ga256d9e1894287d48cc793fccf7b61094',1,'nk::ode']]],
+  ['odeget_5',['odeget',['../group__group__ode.html#gaf746d428fa25494b90ba44dcc3e4454a',1,'nk::ode']]],
+  ['odeset_6',['odeset',['../group__group__ode.html#gaba0659a1651058ce771fbfee919b1045',1,'nk::ode']]],
+  ['ofdmdemod_7',['ofdmdemod',['../group__group__comm.html#gaf09c3e6e022ceb5664ccea9d9425f3a0',1,'nk::comm']]],
+  ['ofdmmod_8',['ofdmmod',['../group__group__comm.html#ga96195b2635d32b4cc38dc9b7fc147569',1,'nk::comm']]],
+  ['ones_9',['ones',['../group__group__elmat.html#gac468d3c482c3a2cffc6ba97aebada75f',1,'nk::builtin::ones(Span&lt; const size_t &gt; dims, ValueType dtype=ValueType::DOUBLE, std::pmr::memory_resource *mr=nullptr)'],['../group__group__elmat.html#ga643c6dfbdd14125c9de8e040501e104b',1,'nk::builtin::ones(size_t rows, size_t cols, ValueType dtype=ValueType::DOUBLE, std::pmr::memory_resource *mr=nullptr)']]],
+  ['operator_20bool_10',['operator bool',['../classnk_1_1function__ref_3_01_r_07_args_8_8_8_08_4.html#a92b7e5ef7a74e97c8c807dd499e3d41e',1,'nk::function_ref&lt; R(Args...)&gt;']]],
+  ['operator_28_29_11',['operator()',['../classnk_1_1function__ref_3_01_r_07_args_8_8_8_08_4.html#a3804c7bcfb91b7772659c2ff8840b2ad',1,'nk::function_ref&lt; R(Args...)&gt;']]],
+  ['or_5fop_12',['or_op',['../group__group__ops.html#ga3bde1a8b5c57737c5bdbd6ea2206b526',1,'nk::builtin']]],
+  ['ordeig_13',['ordeig',['../group__group__matfun.html#ga2d5ef256927d74293de6987fc1cba34d',1,'nk::linalg']]],
+  ['order_14',['order',['../group__group__control.html#gae56dd1b1488a59ff6d44536da1a9b0ac',1,'nk::control']]],
+  ['orderfields_15',['orderfields',['../group__group__datatypes.html#gaac02e4fb78eb4c3efd0c8c30a32da579',1,'nk::runtime']]],
+  ['ordfilt2_16',['ordfilt2',['../group__group__image.html#gaada5b3e355c16bad7c2dc1e9edb73725',1,'nk::image']]],
+  ['ordqz_17',['ordqz',['../group__group__matfun.html#ga4551dadf984e0df25017dcb0f83efbfb',1,'nk::linalg::ordqz(const Value &amp;AA, const Value &amp;BB, const Value &amp;Q, const Value &amp;Z, const Value &amp;select, std::pmr::memory_resource *mr=nullptr)'],['../group__group__matfun.html#ga2bc075ef1d7da4d250b7e1e993786fbf',1,'nk::linalg::ordqz(const Value &amp;AA, const Value &amp;BB, const Value &amp;Q, const Value &amp;Z, const std::string &amp;domain, std::pmr::memory_resource *mr=nullptr)']]],
+  ['ordschur_18',['ordschur',['../group__group__matfun.html#ga8f73f5f6f46f55a39f5834cf3b43eb47',1,'nk::linalg::ordschur(const Value &amp;U, const Value &amp;T, const Value &amp;select, std::pmr::memory_resource *mr=nullptr)'],['../group__group__matfun.html#ga83f544fa0027b983d0a7ff019e6ef6b6',1,'nk::linalg::ordschur(const Value &amp;U, const Value &amp;T, const std::string &amp;domain, std::pmr::memory_resource *mr=nullptr)']]],
+  ['orth_19',['orth',['../group__group__matfun.html#ga2e8b16f79862a0425eefbfeaa6b511c3',1,'nk::linalg']]],
+  ['orthfilt_20',['orthfilt',['../group__group__wavelet.html#ga6f4c6e442a7853b0c6e4972e7cc08af2',1,'nk::wavelet']]],
+  ['otf2psf_21',['otf2psf',['../group__group__image.html#ga008113966c3c6d75b3165378a8e3eec2',1,'nk::image']]],
+  ['otsuthresh_22',['otsuthresh',['../group__group__image.html#ga78ba07c913f8234d796ddd9352d15821',1,'nk::image']]],
+  ['overshoot_23',['overshoot',['../group__group__signal.html#ga8ed3ae343bf0d54d3b377e9e50fd410f',1,'nk::signal']]]
+];
